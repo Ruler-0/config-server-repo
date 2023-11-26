@@ -3,7 +3,7 @@ server:
 
 spring:
   boot:
-    message: Hi there,it's Department Service Updated :)
+    message: Hi there,it's Department Service :)
   dataSource:
     url: jdbc:mysql://localhost:3306/department_db
     username: root
