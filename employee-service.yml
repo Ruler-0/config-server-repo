@@ -2,6 +2,8 @@ server:
   port: 8082
 
 spring:
+  boot:
+    message: Hi there,it's Employee Service :)
   dataSource:
     url: jdbc:mysql://localhost:3306/employee_db
     username: root
